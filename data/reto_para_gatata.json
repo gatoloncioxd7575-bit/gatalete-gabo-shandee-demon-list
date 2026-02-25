@@ -1,1 +1,18 @@
-
+{
+    "id": 134257235,
+    "name": "reto para gatata",
+    "author": "L3xiiii",
+    "creators": ["L3xiiii"],
+    "verifier": "GATALETE",
+    "verification": "https://www.youtube.com/watch?v=yihyTs5SGAM",
+    "percentToQualify": "50",
+    "password": "Free",
+    "records": [
+        {
+            "user": "GATALETE",
+            "link": "https://www.youtube.com/watch?v=yihyTs5SGAM",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

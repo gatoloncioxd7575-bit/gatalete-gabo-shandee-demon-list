@@ -8,11 +8,5 @@
     "percentToQualify": "50",
     "password": "Free",
     "records": [
-        {
-            "user": "",
-            "link": "",
-            "percent": 0,
-            "hz": 0
-        }
     ]
 }

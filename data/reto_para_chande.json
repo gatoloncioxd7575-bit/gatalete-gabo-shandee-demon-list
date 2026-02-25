@@ -1,1 +1,19 @@
+{
+    "id": 131842995,
+    "name": "reto para chande",
+    "author": "GATALETE",
+    "creators": ["GATALETE"],
+    "verifier": "GATALETE",
+    "verification": "https://www.youtube.com/watch?v=f_WuRfuMXQw",
+    "percentToQualify": "80",
+    "password": "Free",
+    "records": [
+        {
+            "user": "nohayvictors",
+            "link": "https://www.youtube.com/watch?v=f_WuRfuMXQw",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
 

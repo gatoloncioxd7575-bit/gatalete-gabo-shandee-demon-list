@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": 134260070,
+    "name": "reto_top_0_ggs",
+    "author": "L3xiiii",
+    "creators": ["L3xiiii", "gatalete"],
+    "verifier": "gatalete",
+    "verification": "https://www.youtube.com/watch?v=anylPcjkxG4",
+    "percentToQualify": 30,
+    "password": "Free",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
+            "user": "nadieselohapasado",
+            "link": "https://www.youtube.com/watch?v=MDQiuZ7hqCE",
+            "percent": 0,
+            "hz": 0
         }
     ]
 }

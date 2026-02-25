@@ -1,1 +1,18 @@
-
+{
+    "id": 134183197,
+    "name": "reto gabo y shandee",
+    "author": "GATALETE",
+    "creators": ["GATALETE"],
+    "verifier": "GATALETE",
+    "verification": "https://www.youtube.com/watch?v=f_WuRfuMXQw",
+    "percentToQualify": "70",
+    "password": "Free",
+    "records": [
+        {
+            "user": "Nohayvictors",
+            "link": "https://www.youtube.com/watch?v=f_WuRfuMXQw",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}

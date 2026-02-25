@@ -1,1 +1,18 @@
-
+{
+    "id": 133987992,
+    "name": "reto gaybo",
+    "author": "GATALETE",
+    "creators": ["GATALETE"],
+    "verifier": "GATALETE",
+    "verification": "https://www.youtube.com/watch?v=f_WuRfuMXQw",
+    "percentToQualify": "90",
+    "password": "Free",
+    "records": [
+        {
+            "user": "L3xiiii",
+            "link": "https://www.youtube.com/watch?v=f_WuRfuMXQw",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
